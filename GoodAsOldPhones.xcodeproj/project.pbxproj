@@ -15,6 +15,7 @@
 		197C21131C6686EF00BCCAE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 197C21111C6686EF00BCCAE8 /* Main.storyboard */; };
 		197C21151C6686EF00BCCAE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 197C21141C6686EF00BCCAE8 /* Assets.xcassets */; };
 		197C21181C6686EF00BCCAE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 197C21161C6686EF00BCCAE8 /* LaunchScreen.storyboard */; };
+		CE6FD42B25644BCE00854E85 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6FD42A25644BCE00854E85 /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		197C21141C6686EF00BCCAE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		197C21171C6686EF00BCCAE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		197C21191C6686EF00BCCAE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE6FD42A25644BCE00854E85 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				19155F4A1C6C58FA00644FDF /* ProductsTableViewController.swift */,
 				19155F4C1C6DA38100644FDF /* Product.swift */,
 				197C21111C6686EF00BCCAE8 /* Main.storyboard */,
+				CE6FD42A25644BCE00854E85 /* test.swift */,
 				197C21141C6686EF00BCCAE8 /* Assets.xcassets */,
 				197C21161C6686EF00BCCAE8 /* LaunchScreen.storyboard */,
 				197C21191C6686EF00BCCAE8 /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				197C21101C6686EE00BCCAE8 /* ProductViewController.swift in Sources */,
+				CE6FD42B25644BCE00854E85 /* test.swift in Sources */,
 				19155F4B1C6C58FA00644FDF /* ProductsTableViewController.swift in Sources */,
 				19155F4D1C6DA38100644FDF /* Product.swift in Sources */,
 				197C210E1C6686EE00BCCAE8 /* AppDelegate.swift in Sources */,
